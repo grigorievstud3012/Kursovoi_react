@@ -1,0 +1,14 @@
+.Footer {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  background-color: white;
+  height: 100px;
+  width: 100vw;
+  margin-left: -8px;
+  margin-bottom: -10px;
+}
+/*# sourceMappingURL=Footer.css.map */
